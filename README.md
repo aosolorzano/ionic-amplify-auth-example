@@ -28,4 +28,4 @@ ionic serve
 
 ## Detailed components' creation/modification
 You can find more detail of the configurations and components coded in this project in the following post:
-[Adding Amplify Auth to your Ionic/Angular projects.]()
+[Adding Amplify Auth to your Ionic/Angular projects.](https://aosolorzano.medium.com/adding-amplify-auth-to-your-ionic-angular-projects-4c8b6337e4e6)
